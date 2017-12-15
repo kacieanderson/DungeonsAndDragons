@@ -1,0 +1,74 @@
+.root {
+	-fx-background-image: url("images/parchment.jpg");
+}
+
+.button{
+	-fx-background-color: #dce6d8;
+	-fx-border-style: solid outside;
+	-fx-border-width: 2.5;
+	-fx-border-radius: 3;
+	-fx-border-color: #747474;
+}
+
+.combobox {
+	-fx-font-size: 18;
+	-fx-font-weight: bold;
+	-fx-background-color: #E4D0F2;
+	-fx-border-style: solid outside;
+	-fx-border-width: 2.5;
+	-fx-border-radius: 3;
+	-fx-border-color: #000000;
+}
+
+.button:hover{
+	-fx-border-color: #4E4E4E;
+}
+
+
+.tab-pane .tab-header-area .tab-header-background {
+    
+    -fx-background-color: #FFFFFF;
+}
+
+.tab-pane
+{
+    -fx-tab-min-width:90px;
+    -fx-background-color: #E2E4E4;
+}
+
+.tab{
+    -fx-background-insets: 0 1 0 1,0,0;
+    -fx-focus-color: transparent;
+    -fx-faint-focus-color: transparent;
+}
+.tab-pane .tab
+{
+    -fx-background-color: #F3F6F6;
+
+}
+
+.tab-pane .tab:selected
+{
+    -fx-background-color: #F5F3E6;
+}
+
+.tab .tab-label { 
+    -fx-alignment: CENTER;
+    -fx-text-fill: #949494;
+    -fx-font-size: 16px;
+    -fx-font-weight: lighter;
+}
+
+.tab:selected .tab-label { 
+    -fx-alignment: CENTER;
+    -fx-text-fill: #000000;
+    -fx-font-weight: bold;
+    
+}
+
+.tab-pane:top *.tab-header-area {
+    -fx-background-insets: 0, 0 0 1 0;
+    -fx-background-color: #949494;
+ /* -fx-padding: 0.416667em 0.166667em 0.0em 0.833em; /* 5 2 0 10 */
+    -fx-padding: 0.416667em 0.166667em 0.0em 0.0em; /* overridden as 5 2 0 0 */
+}
