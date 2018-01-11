@@ -8,8 +8,8 @@ There is also an option for the user to “roll dice.” There are seven unique 
 
 ## Some screenshots
 
-![Splash screen](https://imgur.com/a/9d4Tf)
+![Splash screen](https://i.imgur.com/L7iubu8.png)
 
-![Creation process](https://imgur.com/a/lP3Qt)
+![Creation process](https://i.imgur.com/qQ1XfFK.png)
 
-![Character sheet - general tab](https://imgur.com/a/SvBwX)
+![Character sheet - general tab](https://i.imgur.com/7PWSQEK.png)
